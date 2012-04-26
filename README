@@ -1,0 +1,23 @@
+Author:       Steely Morneau
+Project:      Dictionary
+Last updated: April 2012
+-----------------------------
+
+Summary:
+
+A Java program that uses a 26-ary tree to serve as a spell checker with the 
+following functionality:
+    - add a word to the dictionary
+    - check to see if word is in the dictionary
+    - check to see if a given string is a prefix of any word in the dictionary
+    - suggest a list of n suggestions that are as close as possible to the 
+      target word, where n is a user-specified number
+        - if word is in the dictionary, then the list should only contain the 
+          original word
+    - remove a word from the dictionary
+    - print the words in the dictionary in alphabetical order
+
+Usage: 
+
+java Driver
+to run the test program
