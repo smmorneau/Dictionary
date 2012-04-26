@@ -1,5 +1,6 @@
 import java.io.FileNotFoundException;
 
+/* a simple test class */
 
 public class Driver {
 
